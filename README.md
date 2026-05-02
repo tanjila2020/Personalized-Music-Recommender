@@ -31,11 +31,18 @@ streamlit run app.py
 ## Screenshots
 
 <p align="center">
-  <img src="output1.png" width="700">
+  <img src="output1.PNG" width="700">
 </p>
 
 <p align="center">
-  <img src="output2.png" width="700">
+  <img src="output2.PNG" width="700">
+</p>
+<p align="center">
+  <img src="output3.PNG" width="700">
+</p>
+
+<p align="center">
+  <img src="output4.PNG" width="700">
 </p>
 
 
