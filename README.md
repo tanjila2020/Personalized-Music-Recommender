@@ -38,12 +38,6 @@ streamlit run app.py
   <img src="output2.png" width="700">
 </p>
 
-<p align="center">
-  <img src="output3.png" width="700">
-</p>
 
-<p align="center">
-  <img src="output4.png" width="700">
-</p>
 
 
